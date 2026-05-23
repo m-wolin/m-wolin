@@ -4,6 +4,7 @@
 - Check my Autodesk Robot Structural API Python wrapper!
 - You can find me on [LinkedIn.](https://www.linkedin.com/in/mwolinski/)
 - You can check also my [Youtube.](https://www.youtube.com/channel/UC8i8Y1lR_ON2jsDoUAxtBCg)
+- If you like what I do, please consider buying me a coffee ☕ - https://buycoffee.to/m-wolin
 <!--
 **WT-MWO/WT-MWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
